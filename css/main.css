@@ -12,33 +12,37 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-.para1 {
+body {
+  margin: 0;
+}
 
+.para1 {
+  background-color: #e97065;
 }
 
 .para2 {
-
+  background-color: #fbd25e;
 }
 
 .para3 {
-
+  background-color: #e86033;
 }
 
 .water {
-
+  font-family: "Rammetto One", cursive;
 }
 
 .star {
-
+  font-family: "Gravitas One", cursive;
 }
 
 .persi {
-
+  font-family: Comfortaa, cursive;
 }
